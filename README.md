@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Ramsey94
+- 👀 I’m interested in Data Science, Biomedical signal processing algorithms, Music, Python, Machine learning and others
+- 🌱 I’m currently learning Sofftware development and Data Science
+- 💞️ I’m looking to collaborate on different projects to enhance my skills as a Data Engineer
+- 📫 How to reach me: Ingramseyd@gmail.com
+
+<!---
+Ramsey94/Ramsey94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
