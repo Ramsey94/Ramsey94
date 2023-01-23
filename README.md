@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Ramsey94<br>👀 I’m interested in Data Science, Biomedical signal processing algorithms, Music, Python, Machine learning and others<br>🌱 I’m currently freelancing Software development and Data Analysis<br>💞️ I’m looking to collaborate on different projects to enhance my skills as a Data Analyst and developer<br>📫 How to reach me: Ingramseyd@gmail.com || https://www.linkedin.com/in/ramsey-danny/ ||
+👋 Hi, I’m @Ramsey94<br>👀 I’m interested in Data Science, Biomedical signal processing algorithms, Music, Python, Machine learning and others<br>🌱 I’m currently freelancing Software development and Data Analysis<br>💞️ I’m looking to collaborate on different projects to enhance my skills as a Data Analyst and developer<br>📫 How to reach me: Ingramseyd@gmail.com || +356 99641112 ||
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ramsey94&icon=0&color=0)](https://visitcount.itsvg.in)
